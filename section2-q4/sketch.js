@@ -1,4 +1,4 @@
-// ギリシャ国旗
+// スウェーデン国旗
 function setup() {
   const yellow = color(255,255,0);
   createCanvas(270, 180);
